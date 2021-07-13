@@ -1,2 +1,2 @@
 # blogapp
-A complete overview of the app is covered in this video.
+An overview of the entire app is given in this video.
